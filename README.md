@@ -2,7 +2,7 @@
 
 <p align="center">
 NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
-Este projeto foi desenvolvido na primeira edição de 2023 com orientação do Mayk Brito. <br/>
+Este projeto foi desenvolvido na primeira edição de 2023 com orientação do Mayk Brito pela aluna Paola Marsura Verreschi. <br/>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online](https://maykbrito.github.io/nlw-setup)
+- [Visite o projeto online](https://paolamarsura.github.io/nlw-setup-habits/)
 
 ## 🔖 Layout
 
